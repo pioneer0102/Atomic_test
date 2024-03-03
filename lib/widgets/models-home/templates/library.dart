@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:social_media_app/models-home/organisms/thumbnail.dart';
-import 'package:social_media_app/models-home/organisms/play_list_group.dart';
+import 'package:social_media_app/widgets/models-home/organisms/thumbnail.dart';
+import 'package:social_media_app/widgets/models-home/organisms/play_list_group.dart';
 
 class Library extends StatelessWidget {
   const Library({super.key});

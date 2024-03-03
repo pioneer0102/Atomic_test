@@ -4,8 +4,8 @@ import 'dart:typed_data';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:image/image.dart' as img;
-import 'package:social_media_app/common/molecules/custom_input.dart';
-import 'package:social_media_app/common/molecules/new_thumbnail_image.dart';
+import 'package:social_media_app/widgets/common/molecules/custom_input.dart';
+import 'package:social_media_app/widgets/common/molecules/new_thumbnail_image.dart';
 import 'package:social_media_app/utils/texts.dart';
 
 class TabDetails extends StatefulWidget {

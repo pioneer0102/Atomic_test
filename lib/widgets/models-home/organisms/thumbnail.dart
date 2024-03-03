@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:social_media_app/models-home/atoms/edit_button.dart';
-import 'package:social_media_app/models-home/atoms/more_button.dart';
-import 'package:social_media_app/models-home/atoms/turn_back_button.dart';
+import 'package:social_media_app/widgets/models-home/atoms/edit_button.dart';
+import 'package:social_media_app/widgets/models-home/atoms/more_button.dart';
+import 'package:social_media_app/widgets/models-home/atoms/turn_back_button.dart';
 import 'package:social_media_app/utils/texts.dart';
 
 class Thumbnail extends StatelessWidget {

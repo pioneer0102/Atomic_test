@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:social_media_app/common/molecules/continue_button.dart';
-import 'package:social_media_app/common/molecules/play_list_item.dart';
+import 'package:social_media_app/widgets/common/molecules/continue_button.dart';
+import 'package:social_media_app/widgets/common/molecules/play_list_item.dart';
 import 'package:social_media_app/utils/texts.dart';
 
 class TabContent extends StatefulWidget {

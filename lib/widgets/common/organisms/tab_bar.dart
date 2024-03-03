@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:social_media_app/common/organisms/tabs/tab_content.dart';
-import 'package:social_media_app/common/organisms/tabs/tab_details.dart';
+import 'package:social_media_app/widgets/common/organisms/tabs/tab_content.dart';
+import 'package:social_media_app/widgets/common/organisms/tabs/tab_details.dart';
 
 class CustomTabBar extends StatefulWidget {
   const CustomTabBar({key}) : super(key: key);

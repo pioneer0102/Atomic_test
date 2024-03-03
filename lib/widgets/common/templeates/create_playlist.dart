@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:social_media_app/common/organisms/tab_bar.dart';
+import 'package:social_media_app/widgets/common/organisms/tab_bar.dart';
 import 'package:social_media_app/utils/texts.dart';
 
 class CreatePlaylist extends StatelessWidget {

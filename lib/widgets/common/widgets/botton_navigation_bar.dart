@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:social_media_app/common/atoms/create_playlist_button_style.dart';
-import 'package:social_media_app/common/templeates/create_playlist.dart';
+import 'package:social_media_app/widgets/common/atoms/create_playlist_button_style.dart';
+import 'package:social_media_app/widgets/common/templeates/create_playlist.dart';
 
 class BottomButton extends StatelessWidget {
   const BottomButton({Key? key}) : super(key: key);

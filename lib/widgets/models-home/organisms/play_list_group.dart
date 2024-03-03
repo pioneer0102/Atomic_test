@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:social_media_app/models-home/molecules/play_list.dart';
+import 'package:social_media_app/widgets/models-home/molecules/play_list.dart';
 
 class PlaylistsGroup extends StatelessWidget {
   const PlaylistsGroup({Key? key}) : super(key: key);

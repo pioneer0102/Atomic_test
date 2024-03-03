@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:social_media_app/models-home/atoms/hashtags_group.dart';
+import 'package:social_media_app/widgets/models-home/atoms/hashtags_group.dart';
 import 'package:social_media_app/utils/texts.dart';
 
 class PlayList extends StatelessWidget {
