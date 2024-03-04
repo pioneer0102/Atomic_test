@@ -7,10 +7,11 @@ class BottomButton extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final size = MediaQuery.of(context).size;
     return SafeArea(
       child: Container(
         height: 72,
-        width: 343,
+        width: size.width,
         margin: const EdgeInsets.all(15),
         decoration: const BoxDecoration(
           color: Color.fromARGB(240, 43, 43, 43),

@@ -3,15 +3,14 @@ import 'package:social_media_app/widgets/models-home/organisms/thumbnail.dart';
 import 'package:social_media_app/widgets/models-home/organisms/play_list_group.dart';
 
 class Library extends StatelessWidget {
-  const Library({super.key});
+  const Library({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-
-    return const Column(
+    return Column(
       children: [
         Thumbnail(),
-        PlaylistsGroup()
+        PlaylistsGroup(), // Change this line
       ],
     );
   }
